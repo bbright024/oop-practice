@@ -4,5 +4,5 @@
 /**
  * 
  */
-module ooppractice {
+module oopPractice {
 }
